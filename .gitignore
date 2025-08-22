@@ -1,0 +1,22 @@
+# IDE
+.idea/
+*.iml
+
+# Gradle / builds
+.gradle/
+**/build/
+.cxx/
+.externalNativeBuild/
+
+# Local machine config & secrets
+local.properties
+*.jks
+*.keystore
+key.properties
+
+#Google Services
+google-services.json
+
+# OS junk
+.DS_Store
+Thumbs.db
